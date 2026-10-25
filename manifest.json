@@ -1,0 +1,27 @@
+
+{
+  "id": "./",
+  "name": "La Forja",
+  "short_name": "La Forja",
+  "description": "Tu aplicación de entrenamiento y seguimiento deportivo",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EEF5F9",
+  "theme_color": "#0A151E",
+  "icons": [
+    {
+      "src": "./icons/icon-192.webp",
+      "type": "image/webp",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.webp",
+      "type": "image/webp",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ]
+}
